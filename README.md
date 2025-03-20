@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+AI+%26+Machine+Learning;Full-Stack+Developer+%7C+AI+Enthusiast;Open+to+Collaborations+%7C+Let's+Connect!">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-</p>
-
 ---
 
 ## 🐍 **Animated Contribution Snake**
@@ -19,20 +15,18 @@
 
 ---
 
-## ⚡ **Tech Skills**
+## ⚡ **Tech Skills (Animated)**
 ### **Programming Languages**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,kotlin,swift,c,bash" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,kotlin,swift,c,bash&theme=light&perline=9&animation=spin" />
 </p>
 
 ### **Frameworks & Tools**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tensorflow,pytorch,docker,kubernetes,githubactions" />
-</p>
-
-### **Databases & Cloud**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,redis,aws,gcp" />
+  <marquee scrollamount="8">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tensorflow,pytorch,docker,kubernetes,githubactions" width="60px" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,redis,aws,gcp" width="60px" />
+  </marquee>
 </p>
 
 ---
@@ -102,4 +96,4 @@
 ---
 
 ⭐ _If you like my work, consider dropping a **star**!_  
-🔹 _Always open to exciting projects, collaborations, and new opportunities!_  
+🔹 _Always open
