@@ -1,3 +1,7 @@
+<div style="position: absolute; top: 0; right: 0;">
+  <img src="https://komarev.com/ghpvc/?username=PPathu&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+</div>
+
 <h1 align="center">
   Hi there, I'm Pratham Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
@@ -86,7 +90,3 @@
 
 ⭐ _If you like my work, consider dropping a **star**!_  
 🔹 _Always open to exciting projects, collaborations, and new opportunities!_
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PPathu&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-</p>
