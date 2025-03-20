@@ -1,29 +1,56 @@
 <h1 align="center">Hi there, I'm Pratham Patel 👋</h1>
 
 <p align="center">
-  🚀 Software Engineer | Full-Stack Developer | AI & Cloud Enthusiast ☁️
+  🚀 Software Engineer | AI & Machine Learning | Full-Stack Developer
 </p>
 
 ---
 
 ### 🌟 About Me
 - 🏗 Passionate about **building scalable applications**, **AI & Machine Learning**, and **automation**.
-- 💡 Exploring **AI & ML, AWS Cloud, React, and System Design**.
-- 🛠 Working on **MedInsight** and **AthenaAI**, bringing AI-powered insights to users.
-- 🎯 Focused on **backend engineering**, **Machine Learning**, and **Artificial Intelligence**.
+- 💡 Exploring **LLMs, AI-powered applications, AWS Cloud, and System Design**.
+- 🛠 Working on **MedInsight** and **Soundify**, innovating in **healthcare analytics** and **music streaming**.
+- 🎯 Focused on **AI model engineering**, **backend development**, and **end-to-end application design**.
 - 📬 Reach me at: [LinkedIn](https://www.linkedin.com/in/pathup/) | prathamp97@gmail.com
 
 ---
 
-### 🛠 Tech Stack
+## ⚡ Tech Skills
+
+### **Programming Languages**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+### **Frameworks & Tools**  
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+### **Databases**  
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ---
@@ -39,13 +66,13 @@
 ---
 
 ### 🚀 Featured Projects
-#### [🔹 AthenaAI](https://github.com/PPathu/Athena-AI)  
-*🧠 An AI-powered tool designed to analyze and summarize legislative documents, helping users gain quick insights into legal policies and government regulations.*  
-> **Tech:** Python, FastAPI, NLP, React, PostgreSQL, Javascript  
-
 #### [🔹 MedInsight](https://github.com/PPathu/MedInsight)  
-*🏥 A machine-learning-based healthcare analytics platform that helps analyze medical data to provide insights into patient trends, disease prediction, and risk assessments.*  
-> **Tech:** Python, TensorFlow/PyTorch, FastAPI, SQLite, Javascript  
+*🏥 An AI-powered **healthcare analytics** platform that enables users to query medical data using **NLP-based SQL query generation** for faster and more intuitive insights.*  
+> **Tech:** Python, FastAPI, Qwen-2.5 Coder 32B, SQLite, React, JWT Authentication  
+
+#### [🔹 Soundify](https://github.com/PPathu/Soundify)  
+*🎵 A **mock music streaming service** replicating Spotify’s functionality using **Java, RESTful API, and React** with optimized UI/UX for enhanced music discovery.*  
+> **Tech:** TypeScript, JavaScript, Next.js, React, Node.js, PostgreSQL  
 
 ---
 
@@ -56,6 +83,9 @@
   </a>
   <a href="mailto:prathamp97@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/PPathu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
