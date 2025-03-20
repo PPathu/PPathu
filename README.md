@@ -13,7 +13,7 @@
 
 ## 🎵 Now Playing on Spotify
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=PrathamP97&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false">
+  <img src="https://github-readme-spotify-status.vercel.app/api/run-spotify-status?background_color=000000&border_color=ffffff&border_width=2&border_radius=15&animation_duration=5" />
 </p>
 
 ---
@@ -49,6 +49,9 @@
 
 ## 🔥 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPathu&layout=compact&theme=radical&langs_count=6" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PPathu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 <p align="center">
@@ -60,13 +63,6 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PPathu&theme=dracula&no-frame=true&margin-w=15" />
-</p>
-
----
-
-## 📊 My Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPathu&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 ---
@@ -93,12 +89,7 @@
 
 ---
 
-## 👀 Profile Visits
+🔹 _Always open to exciting projects, collaborations, and new opportunities!_
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PPathu&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
-
----
-
-⭐ _If you like my work, consider dropping a **star**!_  
-🔹 _Always open to exciting projects, collaborations, and new opportunities!_
