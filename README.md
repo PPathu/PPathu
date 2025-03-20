@@ -3,12 +3,23 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+AI+%26+Machine+Learning;Full-Stack+Developer+%7C+Cloud+Enthusiast;Open+to+Collaborations+%7C+Let's+Connect!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+AI+%26+Machine+Learning;Full-Stack+Developer+%7C+AI+Enthusiast;Open+to+Collaborations+%7C+Let's+Connect!">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </p>
 
 ---
 
-## ⚡ Tech Skills
+## 🐍 **Animated Contribution Snake**
+<p align="center">
+  <img src="https://github.com/PPathu/PPathu/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ **Tech Skills**
 ### **Programming Languages**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,kotlin,swift,c,bash" />
@@ -26,7 +37,14 @@
 
 ---
 
-### 🔥 GitHub Stats
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PPathu&theme=dracula&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🔥 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PPathu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
@@ -36,18 +54,32 @@
 
 ---
 
-### 🚀 Featured Projects
-#### [🔹 MedInsight](https://github.com/PPathu/MedInsight)  
+## 🚀 **Featured Projects**
+### [🔹 MedInsight](https://github.com/PPathu/MedInsight)  
 *🏥 An AI-powered **healthcare analytics** platform that enables users to query medical data using **NLP-based SQL query generation** for faster and more intuitive insights.*  
 > **Tech:** Python, FastAPI, Qwen-2.5 Coder 32B, SQLite, React, JWT Authentication  
 
-#### [🔹 Soundify](https://github.com/PPathu/Soundify)  
+### [🔹 Soundify](https://github.com/PPathu/Soundify)  
 *🎵 A **mock music streaming service** replicating Spotify’s functionality using **Java, RESTful API, and React** with optimized UI/UX for enhanced music discovery.*  
 > **Tech:** TypeScript, JavaScript, Next.js, React, Node.js, PostgreSQL  
 
 ---
 
-### 🎯 Let's Connect
+## 📊 **GitHub Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PPathu&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 📜 **Random Developer Quote**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🎯 **Let's Connect**
 <p align="center">
   <a href="https://www.linkedin.com/in/pathup/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -62,5 +94,12 @@
 
 ---
 
-🔹 _Always open to exciting projects, collaborations, and new opportunities!_  
+## 🔥 **Profile Visitor Counter**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PPathu&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
 ⭐ _If you like my work, consider dropping a **star**!_  
+🔹 _Always open to exciting projects, collaborations, and new opportunities!_  
