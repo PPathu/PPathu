@@ -14,8 +14,6 @@
 ---
 
 ## ⚡ Tech Skills
-
-### **Programming Languages**
 ### **Programming Languages**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,kotlin,swift,c,bash" />
