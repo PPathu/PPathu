@@ -1,22 +1,14 @@
-<h1 align="center">Hi there, I'm Pratham Patel 👋</h1>
+<h1 align="center">
+  Hi there, I'm Pratham Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
 <p align="center">
-  🚀 Software Engineer | AI & Machine Learning | Full-Stack Developer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+AI+%26+Machine+Learning;Full-Stack+Developer+%7C+Cloud+Enthusiast;Open+to+Collaborations+%7C+Let's+Connect!">
 </p>
 
 ---
 
-### 🌟 About Me
-- 🏗 Passionate about **building scalable applications**, **AI & Machine Learning**, and **automation**.
-- 💡 Exploring **LLMs, AI-powered applications, AWS Cloud, and System Design**.
-- 🛠 Working on **MedInsight** and **Soundify**, innovating in **healthcare analytics** and **music streaming**.
-- 🎯 Focused on **AI model engineering**, **backend development**, and **end-to-end application design**.
-- 📬 Reach me at: [LinkedIn](https://www.linkedin.com/in/pathup/) | prathamp97@gmail.com
-
----
-
 ## ⚡ Tech Skills
-
 ### **Programming Languages**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,kotlin,swift,c,bash" />
@@ -52,6 +44,13 @@
 #### [🔹 Soundify](https://github.com/PPathu/Soundify)  
 *🎵 A **mock music streaming service** replicating Spotify’s functionality using **Java, RESTful API, and React** with optimized UI/UX for enhanced music discovery.*  
 > **Tech:** TypeScript, JavaScript, Next.js, React, Node.js, PostgreSQL  
+
+---
+
+### 🐍 Contribution Graph Animation
+<p align="center">
+  <img src="https://github.com/PPathu/PPathu/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
