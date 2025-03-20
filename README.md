@@ -1,11 +1,11 @@
-<div style="position: absolute; top: 0; right: 0;">
-  <img src="https://komarev.com/ghpvc/?username=PPathu&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+<div align="center">
+  <h1>
+    Hi there, I'm Pratham Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  </h1>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+AI+%26+Machine+Learning;Full-Stack+Developer+%7C+AI+Enthusiast;Open+to+Collaborations+%7C+Let's+Connect!" />
+  </p>
 </div>
-
-<h1 align="center">
-  Hi there, I'm Pratham Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+AI+%26+Machine+Learning;Full-Stack+Developer+%7C+AI+Enthusiast;Open+to+Collaborations+%7C+Let's+Connect!" />
-</h1>
 
 ---
 
