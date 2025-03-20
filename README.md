@@ -12,19 +12,26 @@
 ---
 
 ## ⚡ Tech Skills
-### **Programming Languages**  
+### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,kotlin,swift,c,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,go,ts,js,swift,kotlin,c,bash,html,css,r,sql" />
 </p>
 
-### **Frameworks & Tools**  
+### **Frameworks & Libraries**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tensorflow,pytorch,docker,kubernetes,githubactions" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,threejs,tensorflow,pytorch,pandas,numpy,fastapi,scikitlearn" />
 </p>
 
-### **Databases & Cloud**  
+### **Tools & Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,redis,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,github,restapi,fastapi,electron,firebase,aws,gcp" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=matlab,jupyter,ios,plaida,sqlite" />
+</p>
+
+### **Databases & Cloud**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firestore,firebase,redis,aws,gcp" />
 </p>
 
 ---
