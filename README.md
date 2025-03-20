@@ -2,9 +2,7 @@
   <h1>
     Hi there, I'm Pratham Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </h1>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+AI+%26+Machine+Learning;Full-Stack+Developer+%7C+AI+Enthusiast;Open+to+Collaborations+%7C+Let's+Connect!" />
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+AI+%26+Machine+Learning;Full-Stack+Developer+%7C+AI+Enthusiast;Open+to+Collaborations+%7C+Let's+Connect!" />
 </div>
 
 ---
