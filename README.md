@@ -19,7 +19,7 @@
 ### **Programming Languages**  
 ### **Programming Languages (Scrolling)**
 <p align="center">
-  <marquee scrollamount="5" behavior="scroll" direction="left">
+  <marquee scrollamount="3" behavior="scroll" direction="left">
     <img src="https://skillicons.dev/icons?i=python" width="50" height="50" />
     <img src="https://skillicons.dev/icons?i=go" width="50" height="50" />
     <img src="https://skillicons.dev/icons?i=java" width="50" height="50" />
