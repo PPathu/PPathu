@@ -24,7 +24,7 @@
 
 ### **Tools & Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,github,fastapi,electron,firebase,matlab,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,github,fastapi,electron,firebase,jupyter" />
 </p>
 
 ### **Databases & Cloud**
