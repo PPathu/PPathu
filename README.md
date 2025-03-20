@@ -70,13 +70,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PPathu&theme=react-dark&hide_border=true&area=true" />
 </p>
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ppathu/ppathu/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ppathu/ppathu/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ppathu/ppathu/output/github-snake.svg" />
-  </picture>
-</div>
+<p align="center">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ppathu/ppathu/output/github-snake.svg" />
+</p>
+
 
 ---
 
