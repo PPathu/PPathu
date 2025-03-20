@@ -69,16 +69,16 @@
 
 ---
 
-## 🎯 Let's Connect
+## 🎯 **Let's Connect**
 <p align="center">
   <a href="https://www.linkedin.com/in/pathup/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="100" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:prathamp97@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/PPathu">
-    <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
