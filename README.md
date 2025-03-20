@@ -19,14 +19,12 @@
 
 ### **Frameworks & Libraries**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,threejs,tensorflow,pytorch,fastapi" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,threejs,tensorflow,pytorch,fastapi,scikitlearn" />
 </p>
 
 ### **Tools & Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,github,fastapi,electron,firebase" />
-  <img src="https://skillicons.dev/icons?i=matlab,jupyter,ios,plaida" />
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,github,fastapi,electron,firebase,matlab,jupyter,ios,plaida" />
 </p>
 
 ### **Databases & Cloud**
