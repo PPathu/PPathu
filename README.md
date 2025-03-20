@@ -1,6 +1,11 @@
-<div style="position: absolute; top: 0; right: 0;">
-  <img src="https://komarev.com/ghpvc/?username=PPathu&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-</div>
+<table width="100%">
+  <tr>
+    <td></td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=PPathu&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">
   Hi there, I'm Pratham Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
