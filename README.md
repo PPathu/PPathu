@@ -17,8 +17,19 @@
 
 ## ⚡ **Tech Skills (Animated)**
 ### **Programming Languages**  
+### **Programming Languages (Scrolling)**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,kotlin,swift,c,bash&theme=light&perline=9&animation=spin" />
+  <marquee scrollamount="5" behavior="scroll" direction="left">
+    <img src="https://skillicons.dev/icons?i=python" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=go" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=java" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=js" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=swift" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=c" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" />
+  </marquee>
 </p>
 
 ### **Frameworks & Tools**  
