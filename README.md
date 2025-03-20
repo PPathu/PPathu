@@ -11,17 +11,10 @@
 
 ---
 
-## 🎵 Now Playing on Spotify
-<p align="center">
-  <img src="https://github-readme-spotify-status.vercel.app/api/run-spotify-status?background_color=000000&border_color=ffffff&border_width=2&border_radius=15&animation_duration=5" />
-</p>
-
----
-
 ## ⚡ Tech Skills
 ### **Programming Languages**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,kotlin,swift,c,bash" />
+  <img src="https://skillicons.dev/icons?i=python, java, golang, typescript, javascript, swift, kotlin, c, bash, html, css, r, sql" />
 </p>
 
 ### **Frameworks & Tools**  
