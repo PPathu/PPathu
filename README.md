@@ -5,28 +5,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+AI+%26+Machine+Learning;Full-Stack+Developer+%7C+AI+Enthusiast;Open+to+Collaborations+%7C+Let's+Connect!" />
 </div>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
 ---
 
 ## 🎵 Now Playing on Spotify
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false">
-</p>
-
----
-
-## ⚡ About Me
-<p align="center">
-  <img src="https://img.shields.io/badge/AI/ML-Engineer-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/DevOps-Docker-blue?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-green?style=for-the-badge&logo=github" />
-</p>
-
----
-
-## 📜 Random Developer Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=PrathamP97&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false">
 </p>
 
 ---
