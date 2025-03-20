@@ -14,7 +14,7 @@
 ## ⚡ Tech Skills
 ### **Programming Languages**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python, java, golang, typescript, javascript, swift, kotlin, c, bash, html, css, r, sql" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,kotlin,swift,c,bash" />
 </p>
 
 ### **Frameworks & Tools**  
