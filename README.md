@@ -35,7 +35,7 @@
 ## 🚀 Featured Projects
 ### [🔹 MedInsight](https://github.com/PPathu/MedInsight)
 *🏥 An AI-powered **healthcare analytics** platform that enables users to query medical data using **NLP-based SQL query generation** for faster and more intuitive insights.*
-> **Tech:** Python, FastAPI, Qwen-2.5 Coder 32B, SQLite, React, JWT Authentication
+> **Tech:** Python, FastAPI, Qwen-2.5 Coder 32B, Deepseek R1, SQLite, React, JWT Authentication
 
 ### [🔹 Soundify](https://github.com/PPathu/Soundify)
 *🎵 A **mock music streaming service** replicating Spotify’s functionality using **Java, RESTful API, and React** with optimized UI/UX for enhanced music discovery.*
